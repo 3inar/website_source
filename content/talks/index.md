@@ -6,6 +6,8 @@ title = "Talks"
 showpagemeta = false
 +++
 
+* __Shrinkage estimation for fun and profit__
+BDPS lab meeting, University of Tromsø. 19th of February, 2018. \[[pdf](/pdfs/shrinkage_estimation.pdf)\]
 * __Predicting breast cancer metastasis from blood samples --- “On variance and other problems”__
 Presented at the Breast Cancer and the Immune System workshop, Barbados, 2017. \[[pdf](/pdfs/barbados2017.pdf)\]
 * __Predicting breast cancer metastasis from blood gene expression using time-to-diagnosis data to derive signature estimates.__
