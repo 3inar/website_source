@@ -1,10 +1,14 @@
-+++
-comments = false
-draft = false
-title = "Research"
-
-showpagemeta = false
-+++
+---
+categories: []
+comments: false
+draft: false
+showcomments: false
+showpagemeta: false
+slug: ""
+tags: []
+title: "Research"
+url: "/research/"
+---
 
 This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page.
 

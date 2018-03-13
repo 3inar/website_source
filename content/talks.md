@@ -1,10 +1,16 @@
-+++
-comments = false
-draft = false
-title = "Talks"
+---
+categories: []
+comments: false
+draft: false
+showcomments: false
+showpagemeta: false
+slug: ""
+tags: []
+title: "Talks"
+url:  "/talks/"
+---
 
-showpagemeta = false
-+++
+These are talks that I've held on various occasions.
 
 * __Shrinkage estimation for fun and profit__
 BDPS lab meeting, University of Tromsø. 19th of February, 2018. \[[pdf](/pdfs/shrinkage_estimation.pdf)\]
@@ -18,3 +24,4 @@ Intro to writing reusable R code and bundling it in packages. Given at the Depar
 Intro to version control software (Git) and its place in reproducible data analysis. Given at the Department of Community Medicine, University of Tromsø. 16th of November, 2016. \[[slides](/pdfs/version_control_and_you.pdf)\]
 * __Predicting cancer progression from blood gene expression (Alternate title: Some negative results).__
 Talk given for the Machine Learning @ UiT weekly seminar 23rd of October, 2015.
+
