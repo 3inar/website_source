@@ -12,12 +12,16 @@ url:  "/talks/"
 
 These are talks that I've held on various occasions.
 
+* __Small data: practical modeling issues in human-model -omic data__
+Defense for the degree of Ph. D. 8th of February, 2019. \[[slides](/pdfs/phd_main_small_data.pdf)\]
+* __Variable selection in genomics --- Methods, challenges, and possibilities__
+Trial lecture for the degree of Ph. D. 8th of February, 2019. \[[slides](/pdfs/phd_trial_variable_selection.pdf)\]
 * __Shrinkage estimation for fun and profit__
-BDPS lab meeting, University of Tromsø. 19th of February, 2018. \[[pdf](/pdfs/shrinkage_estimation.pdf)\]
+BDPS lab meeting, University of Tromsø. 19th of February, 2018. \[[slides](/pdfs/shrinkage_estimation.pdf)\]
 * __Predicting breast cancer metastasis from blood samples --- “On variance and other problems”__
-Presented at the Breast Cancer and the Immune System workshop, Barbados, 2017. \[[pdf](/pdfs/barbados2017.pdf)\]
+Presented at the Breast Cancer and the Immune System workshop, Barbados, 2017. \[[slides](/pdfs/barbados2017.pdf)\]
 * __Predicting breast cancer metastasis from blood gene expression using time-to-diagnosis data to derive signature estimates.__
-Poster presented at the 2017 Statistical Methods for Postgenomic Data workshop in London. \[[pdf](/pdfs/poster-smpgd2017.pdf)\]
+Poster presented at the 2017 Statistical Methods for Postgenomic Data workshop in London. \[[poster](/pdfs/poster-smpgd2017.pdf)\]
 * __The pragmatic R programmer.__
 Intro to writing reusable R code and bundling it in packages. Given at the Department of Community Medicine, University of Tromsø. 17th of November, 2016. \[[slides](/pdfs/pragmatic_r.pdf)\] \[[demo package](https://github.com/3inar/tinypackage/)\]
 * __Version control and you.__
