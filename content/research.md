@@ -13,6 +13,8 @@ url: "/research/"
 This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page.
 
 ### Papers
+* Jácome, C., Ravn, J., __Holsbø, E.__, Aviles-Solis, J. C., Melbye, H. & Bongo, L. A. _Convolutional Neural Network for Breathing Phase Detection in Lung Sounds._ Sensors 19, (2019). \[[arXiv](https://arxiv.org/abs/1903.10251)\]
+* __Holsbø, E.__, & Perduca, V. (2018). _Shrinkage estimation of rate statistics._ Case Studies in Business, Industry & Government Statistics, 7(1). \[[arXiv](https://arxiv.org/abs/1810.07654)\]
 * M. Grønnesby, J. C. A. Solis, __E. Holsbø__, H. Melbye, and L. A. Bongo, _Machine Learning Based Crackle Detection in Lung Sounds_, \[[arXiv](https://arxiv.org/abs/1706.00005)\], May 2017. Currently under submission.
 * H. M. Bøvelstad, __E. Holsbø__, L. A. Bongo, and E. Lund, _A Standard Operating Procedure For Outlier Removal In Large-Sample Epidemiological Transcriptomics Datasets_, \[[bioRxiv](http://biorxiv.org/content/early/2017/05/31/144519)\], May 2017. Currently under submission. Hege Bøvelstad and I are joint first authors.
 * __E. Holsbø__, V. Perduca, L. A. Bongo, E. Lund, and E. Birmelé, _Curve Selection For Predicting Breast Cancer Metastasis From Prospective Gene Expression in Blood._ \[[bioRxiv](http://www.biorxiv.org/content/early/2017/05/23/141325??collection=)\], 2017. Currently under submission.
