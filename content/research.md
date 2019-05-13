@@ -10,7 +10,8 @@ title: "Research"
 url: "/research/"
 ---
 
-This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page.
+This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page. I defended
+my Ph. D. in Febryary, 2019. My dissertation was titled _Small data: practical modeling issues in human-model -omic data_. \[[archived version](https://hdl.handle.net/10037/14660)\]
 
 ### Papers
 * Jácome, C., Ravn, J., __Holsbø, E.__, Aviles-Solis, J. C., Melbye, H. & Bongo, L. A. _Convolutional Neural Network for Breathing Phase Detection in Lung Sounds._ Sensors 19, (2019). \[[arXiv](https://arxiv.org/abs/1903.10251)\]
@@ -34,6 +35,8 @@ _Stress related to a suspicious mammogram - potential transcriptomic effects._ A
 The 7th Conference on Epidemiology and Registry-Based Health Research - NordicEpi 2015
 
 ### As adviser
-* __Morten Grønnesby__. Automated Lung Sound Analysis. Master thesis. Department of Computer Science, 
+* __Mike Voets__. _Deep Learning: From Data Extraction to Large-Scale Analysis._ Master thesis. Department of Computer Science, 
+University of Tromsø. May 2018.
+* __Morten Grønnesby__. _Automated Lung Sound Analysis. Master thesis._ Department of Computer Science, 
 University of Tromsø. June 2016.
 
