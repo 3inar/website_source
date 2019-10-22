@@ -12,6 +12,8 @@ url:  "/talks/"
 
 These are talks that I've held on various occasions.
 
+* __Learn to live with lack of rejection__
+A talk for Norwegian Women and Cancer's systems epidemiology group by myself and Kajsa Møllersen. \[[slides](/pdfs/living_with_lack_of_rejection.pdf)\]
 * __Small data: practical modeling issues in human-model -omic data__
 Defense for the degree of Ph. D. 8th of February, 2019. \[[slides](/pdfs/phd_main_small_data.pdf)\]
 * __Variable selection in genomics --- Methods, challenges, and possibilities__
