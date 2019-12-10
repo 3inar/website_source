@@ -12,7 +12,7 @@ url:  "/talks/"
 
 These are talks that I've held on various occasions.
 
-* __Scientific cartogrphy__
+* __Scientific cartography__
 A talk about causal DAGs for Norwegian Women and Cancer's systems epidemiology. Given by me and Karina Standahl Olsen in November, 2019. \[[slides](/pdfs/scientific_cartography.pdf)\]
 * __Learn to live with lack of rejection__
 A talk for Norwegian Women and Cancer's systems epidemiology group by myself and Kajsa Møllersen. \[[slides](/pdfs/living_with_lack_of_rejection.pdf)\]
