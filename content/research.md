@@ -11,7 +11,7 @@ url: "/research/"
 ---
 
 This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page. I defended
-my Ph. D. in Febryary, 2019. My dissertation was titled _Small data: practical modeling issues in human-model -omic data_. \[[archived version](https://hdl.handle.net/10037/14660)\]
+my Ph. D. in February, 2019. My dissertation was titled _Small data: practical modeling issues in human-model -omic data_. \[[archived version](https://hdl.handle.net/10037/14660)\]
 
 ### Papers
 * Dong, C, Metzger, M, __Holsbø, E__, Perduca, V, Carbonnel, F. _Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis._ Aliment Pharmacol Ther. 2019; 00: 1– 27.
