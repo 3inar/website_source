@@ -12,6 +12,8 @@ url:  "/talks/"
 
 These are talks that I've held on various occasions.
 
+* __One weird trick to quantify uncertainty__
+One hour workshop teaching the bootstrap to our lab. \[[slides](/pdfs/weird_trick.pdf)\] \[[rstudio.cloud project](https://rstudio.cloud/project/922006)\]
 * __Scientific cartography__
 A talk about causal DAGs for Norwegian Women and Cancer's systems epidemiology. Given by me and Karina Standahl Olsen in November, 2019. \[[slides](/pdfs/scientific_cartography.pdf)\]
 * __Learn to live with lack of rejection__
