@@ -8,3 +8,4 @@ _cache
 blogdown
 .RData
 drafts
+.DS_Store
