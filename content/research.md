@@ -14,7 +14,12 @@ This is a list of my academic work. For talks and similar, visit the [talks](/ta
 my Ph. D. in February, 2019. My dissertation was titled _Small data: practical modeling issues in human-model -omic data_. \[[archived version](https://hdl.handle.net/10037/14660)\]
 
 ### Papers
+* __Holsbø E__, Olsen KS. _Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort._ Frontiers in oncology. 2020 Oct 15;10:2277.
+
+* __Holsbø, E.__, Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). _Predicting breast cancer metastasis from whole-blood transcriptomic measurements._ BMC Research Notes, 13(1), 1-5.
+
 * Dong, C, Metzger, M, __Holsbø, E__, Perduca, V, Carbonnel, F. _Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis._ Aliment Pharmacol Ther. 2019; 00: 1– 27.
+
 * Jácome, C., Ravn, J., __Holsbø, E.__, Aviles-Solis, J. C., Melbye, H. & Bongo, L. A. _Convolutional Neural Network for Breathing Phase Detection in Lung Sounds._ Sensors 19, (2019). \[[arXiv](https://arxiv.org/abs/1903.10251)\]
 * __Holsbø, E.__, & Perduca, V. (2018). _Shrinkage estimation of rate statistics._ Case Studies in Business, Industry & Government Statistics, 7(1). \[[arXiv](https://arxiv.org/abs/1810.07654)\]
 * M. Grønnesby, J. C. A. Solis, __E. Holsbø__, H. Melbye, and L. A. Bongo, _Machine Learning Based Crackle Detection in Lung Sounds_, \[[arXiv](https://arxiv.org/abs/1706.00005)\], May 2017. Currently under submission.
