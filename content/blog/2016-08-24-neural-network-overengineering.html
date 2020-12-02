@@ -3,7 +3,8 @@ title: "Neural network overengineering"
 author: "Einar"
 date: 2016-08-24
 #categories: ["R"]
-tags: ["neural networks", "naive bayes", "wine"]
+tags: ["neural_networks", "naive_bayes", "wine"]
+math: true
 ---
 
 
@@ -55,14 +56,14 @@ pred &lt;- predict(nbfit, x[test_idx, ], type=&quot;class&quot;)
 confusion &lt;- table(pred, y[test_idx]); confusion</code></pre>
 <pre><code>##     
 ## pred  1  2  3
-##    1 18  0  0
-##    2  0 29  0
-##    3  0  1 15</code></pre>
+##    1 25  0  0
+##    2  0 25  0
+##    3  0  0 13</code></pre>
 <p>That’s a pretty friendly-looking confusion matrix; we only have a single
 misclassification. Accuracy is the number of correctly classified observations
 over the total number of observations classified:</p>
 <pre class="r"><code>acc_est &lt;- sum(diag(confusion))/sum(confusion); acc_est</code></pre>
-<pre><code>## [1] 0.984127</code></pre>
+<pre><code>## [1] 1</code></pre>
 <p>So that’s pretty good. Since I believe in uncertainty estimates, we’ll do a
 bootstrapped quantile confidence interval. I estimate by 100% guessing that
 5000 bootstrap samples is enough. Much more than enough probably.</p>
@@ -79,8 +80,8 @@ stats &lt;- aaply(boots, 1, function(bsindex) {
 
 quantile(stats, c(0.025, 0.975))</code></pre>
 <pre><code>##     2.5%    97.5% 
-## 0.952381 1.000000</code></pre>
+## 0.968254 1.000000</code></pre>
 <p>The results are in: our intelligent wine tasting machine has an estimated accuracy
-of 0.98 with a 0.95 CI of
-[0.95, 1].
+of 1 with a 0.95 CI of
+[0.97, 1].
 That’s good enough for me, and what’s more I never have to drink wine alone again.</p>
