@@ -15,7 +15,7 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "Academic website of Dr. Einar Holsbø"
+title = "Just data things"
 languageCode = "en-us"
 baseURL = "https://3inar.github.io/"
 copyright = "© {year}"

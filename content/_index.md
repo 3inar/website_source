@@ -2,5 +2,5 @@
 heading: "Dr. Einar Holsbø"
 subheading: "Data analysis, including statistics."
 ---
-Currently a postdoc at UiT — The Arctic University of Norway. 
+Associate professor in the [Centre for New Antibacterial Strategies](https://uit.no/research/cans) at UiT — The arctic university of Norway.
 

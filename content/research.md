@@ -13,7 +13,7 @@ url: "/research/"
 This is a list of my academic work. For talks and similar, visit the [talks](/talks/) page. I defended
 my Ph. D. in February, 2019. My dissertation is called _Small data: practical modeling issues in human-model -omic data_. \[[archived version](https://hdl.handle.net/10037/14660)\]
 
-### Papers
+## Papers
 * __Holsbø E__, Olsen KS. _Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort._ Frontiers in oncology. 2020 Oct 15;10:2277.
 * __Holsbø, E.__, Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). _Predicting breast cancer metastasis from whole-blood transcriptomic measurements._ BMC Research Notes, 13(1), 1-5.
 * Dong, C, Metzger, M, __Holsbø, E__, Perduca, V, Carbonnel, F. _Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis._ Aliment Pharmacol Ther. 2019; 00: 1– 27.
@@ -32,12 +32,12 @@ Proceedings of the iiWAS2013 The 15th International Conference on Information In
 _The Big Digger & Puzzler System for Harvesting & Analyzing Data from Social Networks._
 Norsk informatikkonferanse NIK 2013
 
-### Other
+## Other
 * Olsen KS, __Holsbø E__, Rognmo K, Krum-Hansen S, and Lund E. 
 _Stress related to a suspicious mammogram - potential transcriptomic effects._ Abstract.
 The 7th Conference on Epidemiology and Registry-Based Health Research - NordicEpi 2015
 
-### As adviser
+## As adviser
 * __Tengel Skar__. _Scalable exploration of population-scale drug consumption data._ Master thesis, Department of Computer Science, Univeristy of Tromsø. June 2019.
 * __Mike Voets__. _Deep Learning: From Data Extraction to Large-Scale Analysis._ Master thesis. Department of Computer Science, 
 University of Tromsø. May 2018.
