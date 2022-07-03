@@ -6,3 +6,6 @@
 	path = public
 	url = git@github.com:3inar/3inar.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
